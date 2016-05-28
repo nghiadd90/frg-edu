@@ -1,0 +1,27 @@
+{
+  "name": "Framgia Edu",
+  "authors": [
+    "Framgia Team"
+  ],
+  "description": "Theme for project 2 - Sport News",
+  "main": [
+    "css/main.css",
+    "js/main.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nghiadd90/frg-edu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "components/"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "datatables": "^1.10.12",
+    "font-awesome": "^4.6.3",
+    "jQuery.dotdotdot": "^1.8.1"
+  }
+}
